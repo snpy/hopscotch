@@ -1,0 +1,14 @@
+{
+    "name": "linkedin/hopscotch",
+    "type": "library",
+    "description": "A framework to make it easy for developers to add product tours to their pages.",
+    "homepage": "https://github.com/snpy/hopscotch",
+    "license": "Apache-2.0",
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
+
